@@ -31,6 +31,7 @@
 # How to run project
 
 **pnpm install**
+
 **pnpm run dev**
 
 # chatgpt reference
