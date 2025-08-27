@@ -30,8 +30,8 @@
 
 # How to run project
 
-pnpm install
-pnpm run dev
+**pnpm install**
+**pnpm run dev**
 
 # chatgpt reference
 🎥 [Link](https://chatgpt.com/c/68ad6728-d00c-832e-a5cb-4817c2d175e8)
